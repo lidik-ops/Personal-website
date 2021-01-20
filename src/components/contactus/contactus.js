@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import TweetEmbed from 'react-tweet-embed';
-import Tweet from '../../Tweet';
+// import TweetEmbed from 'react-tweet-embed';
+// import Tweet from '../../Tweet';
  
 export default class ContactUs extends Component {
 
@@ -28,13 +28,13 @@ export default class ContactUs extends Component {
               </aside>
             </div>
 
-            <div class="col-6">
+            {/* <div class="col-6">
               <aside className="eigth columns footer-widgets">
                 <div className="widget">
                   <TweetEmbed id ="1350947029829218305" options={{cards: 'hidden'}}/>
                 </div>
               </aside>
-            </div>
+            </div> */}
             
           </div>
         </section>
